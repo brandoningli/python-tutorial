@@ -9,3 +9,6 @@ Use this badge to open these notebooks in an interactive Jupyter Notebook editor
 + Lesson 0: Navigating Jupyter and the Slides
     + [Slides](https://brandoningli.github.io/python-tutorial/00-navigating_jupyter_and_the_slides/00-navigating_jupyter_and_the_slides.slides.html)
     + [Notes](https://brandoningli.github.io/python-tutorial/00-navigating_jupyter_and_the_slides/00-navigating_jupyter_and_the_slides.pdf)
++ Lesson 1: Basic Syntax
+    + [Slides](https://brandoningli.github.io/python-tutorial/01-basic_syntax/01-basic_syntax.slides.html)
+    + [Notes](https://brandoningli.github.io/python-tutorial/01-basic_syntax/01-basic_syntax.pdf)
