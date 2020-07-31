@@ -13,5 +13,5 @@ Use this badge to open these notebooks in an interactive Jupyter Notebook editor
     + [Slides](https://brandoningli.github.io/python-tutorial/01-basic_syntax/01-basic_syntax.slides.html)
     + [Notes](https://brandoningli.github.io/python-tutorial/01-basic_syntax/01-basic_syntax.pdf)
 + Lesson 2: Variables
-    + [Slides](https://brandoningli.github.io/02-variables/02-variables.slides.html)
-    + [Notes](https://brandoningli.github.io/02-variables/02-variables.pdf)
+    + [Slides](https://brandoningli.github.io/python-tutorial/02-variables/02-variables.slides.html)
+    + [Notes](https://brandoningli.github.io/python-tutorial/02-variables/02-variables.pdf)
