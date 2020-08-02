@@ -15,3 +15,6 @@ Use this badge to open these notebooks in an interactive Jupyter Notebook editor
 + Lesson 2: Variables
     + [Slides](https://brandoningli.github.io/python-tutorial/02-variables/02-variables.slides.html)
     + [Notes](https://brandoningli.github.io/python-tutorial/02-variables/02-variables.pdf)
++ Lesson 3: Operators
+    + [Slides](https://brandoningli.guthub.io/python-tutorial/03-operators/03-operators.slides.html)
+    + [Notes](https://brandoningli.guthub.io/python-tutorial/03-operators/03-operators.pdf)
