@@ -22,5 +22,7 @@ Use this badge to open these notebooks in an interactive Jupyter Notebook editor
     + [Slides](https://brandoningli.github.io/python-tutorial/04-nonprimitives/04-nonprimitives.slides.html)
     + [Notes](https://brandoningli.github.io/python-tutorial/04-nonprimitives/04-nonprimitives.pdf)
 + Lesson 5: Control Flow
+    + [Slides](https://brandoningli.github.io/python-tutorial/05-control_flow/05-control_flow.slides.html)
+    + [Notes](https://brandoningli.github.io/python-tutorial/05-control_flow/05-control_flow.pdf)
 + Lesson 6: Functions and Scope
 + Lesson 7: Files
